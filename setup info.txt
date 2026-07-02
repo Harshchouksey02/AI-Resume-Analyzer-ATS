@@ -1,0 +1,10 @@
+required pip install
+
+pip install google-generativeai
+pip install google-generativeai PyPDF2 streamlit matplotlib
+pip install gtts
+
+for run 
+
+cd "C:\Users\DELL\Harsh Python\project"
+streamlit run adv_ats_new.py
